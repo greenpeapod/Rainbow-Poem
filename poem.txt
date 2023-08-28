@@ -8,3 +8,4 @@
   orange
   red
   
+These are the colors of a rainbow

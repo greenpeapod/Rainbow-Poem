@@ -1,0 +1,10 @@
+  The Rainbow
+
+  purple
+  Indigo 
+  blue
+  green
+  yellow
+  orange
+  red
+  

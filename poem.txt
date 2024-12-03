@@ -3,6 +3,7 @@ pink
 purple
 yellow
 blue
+red
 Indigo
 unicorn
 pony

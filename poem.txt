@@ -3,6 +3,6 @@ pink
 purple
 yellow
 blue
-unicorn
 Indigo
+unicorn
 are colors of rainbow and unicorn 
